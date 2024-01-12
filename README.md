@@ -5,4 +5,4 @@ Using Sobel operator and assign operator filter an image that was taken in campu
 ### exp2: detect the lane line
 Using Hough Transfer detect the lane line in the picture.
 ### exp3: recognize the student number
-Using Machine Learning or Deep Learning and MNIST dataset to train a model and use this model to recognize the student number.
+Using Machine Learning or Deep Learning and MNIST dataset train a model and use this model to recognize the student number.
