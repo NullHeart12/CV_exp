@@ -1,5 +1,5 @@
 # CV_exp
-## hfut computer vision(CV) experiment
+## hfut computer vision(CV) experiment / 合肥工业大学计算机视觉实验
 ### exp1: filter
 Using Sobel operator and assign operator filter an image that was taken in campus. And then extract the color histogram and the texture of the image.
 ### exp2: detect the lane line
